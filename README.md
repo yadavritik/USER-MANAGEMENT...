@@ -6,7 +6,7 @@ PROJECT...
 This is a simple User Management System built using PHP and MySQL.  
 It allows users to register, login, and manage employee data.
 
-## 📌 Features
+
 ## 🚀 Features
 - 🔐 User Registration (with password hashing)
 - 🔑 Login Authentication
@@ -27,4 +27,21 @@ It allows users to register, login, and manage employee data.
 4. Run project on XAMPP / localhost
 
 ## 📷 Screenshots
+### REGISTER Employee
+![REGISTER](/User%20Management%20Practical/imgs/reg.png)
+
+### LOGIN
+![LOGIN](/User%20Management%20Practical/imgs/login.png)
+
+### HOME
+![HOME](/User%20Management%20Practical/imgs/home.png)
+
+### TABLE
+![EMP TABLE](/User%20Management%20Practical/imgs/emp%20table.png)
+
+### EDIT EMPLOYEE
+![EDIT](/User%20Management%20Practical/imgs/edit.png)
+
+### DELETE EMPLOYEE
+![DELETE](/User%20Management%20Practical/imgs/delete%20emp.png)
 
